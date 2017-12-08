@@ -1,7 +1,7 @@
 body {
-    max-width: 30rem;
-    background-color: mintcream;
-    color: darkolivegreen;
+    max-width: 45rem;
+    background-color: silver;
+    color: midnightblue;
     font-family: 'Roboto Condensed', sans-serif;
     margin-left: 20px;
 }
@@ -10,40 +10,34 @@ html {
     font-size: 100%;
 }
 
-h1 {
-    color: red;
-    background-color: yellow;
-    border: 3px dashed darkolivegreen;
-}
-
 .our-div {
-    text-align: right;
+    text-align: left;
 }
 
 h2 {
-    font-size: 2rem;
+    font-size: 4rem;
 }
 
 h3 {
-    font-size: 1.5rem;
+    font-size: 3rem;
 }
 
 .paragraph-one {
-    font-size: 6rem;
-    line-height: 0.9;
-    opacity: 0.6;
+    font-size: 2rem;
+    font-family: 'Cormorant Garamond', serif;
 }
 
 .paragraph-two {
-    text-align: right;
-    font-size: 0.6rem;
+    font-size: 2rem;
+    font-family: 'Cormorant Garamond', serif;
 }
 
 .paragraph-three {
-    font-size: 9rem;
-    letter-spacing: 8px;
+    font-size: 2rem;
+    font-family: 'Cormorant Garamond', serif;
 }
-.paragraph-three {
-    font-style: italic;
-    transform: scaleY(-1);
+
+.paragraph-four {
+    font-size: 2rem;
+    font-family: 'Cormorant Garamond', serif;
 }
